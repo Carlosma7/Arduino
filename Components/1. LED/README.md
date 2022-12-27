@@ -38,4 +38,4 @@ Here´s the following example, it contains a semaphore that just turn on in orde
 * **pinMode(PIN, OUTPUT);** sets the pin with number *PIN* as an output signal to turn on the LED.
 * **digitalWrite(PIN, VALUE);** writes a digital value (HIGH=1 or LOW=0) on the pin with number *PIN*. *HIGH* turns on the pin and *LOW* turns off.
 
-You can find the code [here](https://github.com/Carlosma7/Arduino/blob/main/Components/1.%20LED/LED.ino).
+You can find the code [here](./LED.ino).
