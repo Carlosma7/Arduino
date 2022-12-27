@@ -8,7 +8,7 @@
 * As it´s active (sealed with a sticker), it just needs to set the pin and output mode, the frequency is standard.
 * To set the frequency, it needs to be set a certain amount of iterations of turning on/off and the quantity of them determines the duration of it.
 
-<img title="Button" src="https://www.electrovigyan.com/wp-content/uploads/2022/03/buzzer-pin-diagram.png" width=200/>
+<img title="Active Buzzer" src="https://www.electrovigyan.com/wp-content/uploads/2022/03/buzzer-pin-diagram.png" width=200/>
 
 ## Diagram
 
@@ -29,9 +29,3 @@ Since markdown does not support videos, and here we try to see how it beeps, the
 * for loop determines the number of iterations (duration is delays in there multiplied by the number of iterations) and the delay between turning on/off determines the frequency of beep.
 
 You can find the code [here](./Active_Buzzer.ino).
-
-## Cool feature
-
-As you would expect, you can try to recreate some songs (or create your own one) using different frequencies and durations. A funny example I´ve found researching is the one given in [Hibit-dev Buzzer repository](https://github.com/hibit-dev/buzzer). It contains the library and examples of some really known songs.
-
-I´ve tried the Mario´s song, you can see [here](./video/Active_Buzzer_mario.mp4).

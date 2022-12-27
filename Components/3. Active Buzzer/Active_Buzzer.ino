@@ -1,5 +1,5 @@
 /*
-  LED
+  Active Buzzer
 
   Turns on the buzzer three times with a delay of 1 second and then turns
   on the buzzer a thousand times with a delay of 1 ms to produce different
