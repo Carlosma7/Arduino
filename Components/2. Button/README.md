@@ -13,7 +13,7 @@
 
 Here´s the following example of a Button connected to a 5V source and ground.
 
-![Button diagram](./img/Button_diagram.jpeg)
+![Button diagram](./img/Button_diagram.png)
 
 ## Example
 Here´s the following example, it contains a circuit with a green led that turns on when pressing a button and turns off when pressing the other one (4 and 10 respectively).
