@@ -31,7 +31,7 @@ Here´s the following example, it contains a semaphore that just turn on in orde
 ![LED example](./img/LED_example.png)
 
 #### Demo
-<p align="center"><img src="https://raw.githubusercontent.com/Carlosma7/Arduino/master/Components/1.%LED/img/LED_demo.gif"/></p>
+<p align="center"><img src="https://github.com/Carlosma7/Arduino/blob/main/Components/1.%20LED/img/LED_demo.gif"/></p>
 
 #### Code
 
