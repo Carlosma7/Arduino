@@ -9,3 +9,4 @@ Projects for learning how to use Arduino and some components, with some cool pro
 4. [Passive Buzzer](./Components/4.%20Passive%20Buzzer)
 5. [Servo](./Components/5.%20Servo)
 6. [Ultrasonic SR04](./Components/6.%20Ultrasonic%20SR04)
+7. [Membrane Switch Module](./Components/7.%20Membrane%20Switch%20Module)
