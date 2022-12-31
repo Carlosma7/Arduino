@@ -24,7 +24,6 @@ Here´s the following example, it uses the same diagram as above and just prints
 #### Code
 
 * **digitalWrite(SW_pin, HIGH);** sets the joystick as active to use it.
-* ****
 * **analogRead(PIN)** reads an analog value from the corresponding axis of the joystick.
 
 You can find the code [here](./Analog_Joystick.ino).
