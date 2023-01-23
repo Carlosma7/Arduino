@@ -3,13 +3,13 @@ Projects for learning how to use Arduino and some components, with some cool pro
 
 ## Components
 
-1. [LED](./Components/1.%20LED)
-2. [Button](./Components/2.%20Button)
-3. [Active Buzzer](./Components/3.%20Active%20Buzzer)
-4. [Passive Buzzer](./Components/4.%20Passive%20Buzzer)
-5. [Servo](./Components/5.%20Servo)
-6. [Ultrasonic SR04](./Components/6.%20Ultrasonic%20SR04)
-7. [Membrane Switch Module](./Components/7.%20Membrane%20Switch%20Module)
-8. [Analog Joystick](./Components/8.%20Analog%20Joystick)
-9. [RGB LED](./Components/9.%20RGB%20LED)
+01. [LED](./Components/01.%20LED)
+02. [Button](./Components/02.%20Button)
+03. [Active Buzzer](./Components/03.%20Active%20Buzzer)
+04. [Passive Buzzer](./Components/04.%20Passive%20Buzzer)
+05. [Servo](./Components/05.%20Servo)
+06. [Ultrasonic SR04](./Components/06.%20Ultrasonic%20SR04)
+07. [Membrane Switch Module](./Components/07.%20Membrane%20Switch%20Module)
+08. [Analog Joystick](./Components/08.%20Analog%20Joystick)
+09. [RGB LED](./Components/09.%20RGB%20LED)
 10. [Photoresistor](./Components/10.%20Photoresistor)
