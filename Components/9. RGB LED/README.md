@@ -12,7 +12,7 @@
 
 Here´s the following example of a SMD tricolor LED connected to three pins for each color and another one to ground.
 
-![RGB LED diagram](./img/RGB_LED_diagram.jpeg)
+![RGB LED diagram](./img/RGB_LED_diagram.png)
 
 ## Example
 Here are the following examples, it contains two examples of turning one and off the three different colors of the RGB code, one turning on/off and the other with fade effect.
