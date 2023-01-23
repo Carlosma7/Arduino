@@ -12,3 +12,4 @@ Projects for learning how to use Arduino and some components, with some cool pro
 7. [Membrane Switch Module](./Components/7.%20Membrane%20Switch%20Module)
 8. [Analog Joystick](./Components/8.%20Analog%20Joystick)
 9. [RGB LED](./Components/9.%20RGB%20LED)
+10. [Photoresistor](./Components/10.%20Photoresistor)
