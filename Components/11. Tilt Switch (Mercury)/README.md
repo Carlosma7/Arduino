@@ -22,12 +22,15 @@
 Here are several examples of the three different types of tilt switches studied, in order to use them to turn on a LED (a F5 one or built-in one).
 
 **Tilt Switch with F5**
+
 ![Tilt Switch diagram](./img/Tilt_Switch_diagram.png)
 
 **KY-017**
+
 ![KY-017 diagram](./img/Tilt_Switch_KY017_diagram.png)
 
 **KY-027**
+
 ![KY-027 diagram](./img/Tilt_Switch_KY027_diagram.png)
 
 ## Example
@@ -36,12 +39,15 @@ Here are the following examples, it uses the same diagrams as above and just tur
 #### Demo
 
 **Tilt Switch**
+
 <p align="center"><img src="./img/Tilt_Switch_demo.gif"/></p>
 
 **KY-017**
+
 <p align="center"><img src="./img/Tilt_Switch_KY017_demo.gif"/></p>
 
 **KY-027**
+
 <p align="center"><img src="./img/Tilt_Switch_KY027_demo.gif"/></p>
 
 #### Code
