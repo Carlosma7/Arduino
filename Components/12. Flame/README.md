@@ -15,7 +15,7 @@ Here´s the following example of a flame sensor that just turns on a LED (either
 
 ![Flame diagram](./img/Flame_diagram.png)
 
-![Flame KY026 diagram](./img/Flame_KY026_diagram.jpeg)
+![Flame KY026 diagram](./img/Flame_KY026_diagram.png)
 
 ## Example
 Here are the following examples with both models of flame sensors. The code is to turn on the built-in sensor in the UNO board.
