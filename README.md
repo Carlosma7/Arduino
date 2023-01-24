@@ -14,3 +14,4 @@ Projects for learning how to use Arduino and some components, with some cool pro
 09. [RGB LED](./Components/09.%20RGB%20LED)
 10. [Photoresistor](./Components/10.%20Photoresistor)
 11. [Tilt Switch (Mercury)](./Components/11.%20Tilt%20Switch%20%28Mercury%29)
+12. [Flame](./Components/12.%20Flame)
