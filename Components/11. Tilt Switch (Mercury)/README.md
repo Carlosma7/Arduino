@@ -8,12 +8,15 @@
 * There are several types of tilt switches, but in this post we´ll study the basic mercury one, the KY-017 and KY-027.
 
 **Tilt Switch**
+
 <img title="LED" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Mercury_Switch_without_housing.jpg" width=200/>
 
 **KY-017**
+
 <img title="LED" src="https://static2.efcomponentes.com.ar/5485-thickbox_default/modulo-optico-de-mercurio-ky-017.jpg" width=200/>
 
 **KY-027**
+
 <img title="LED" src="https://www.infootec.net/wp-content/uploads/2017/05/magic-light.jpg" width=200/>
 
 
