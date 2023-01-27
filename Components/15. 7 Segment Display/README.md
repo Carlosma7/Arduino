@@ -1,9 +1,9 @@
-# 7 Segments Display
+# 7 Segment Display
 
 ## Components 
-### 7 Segments Display
+### 7 Segment Display
 
-* 7 Segments Display uses 7 leds in order to represent a digit, making use of 10 pins to configure it.
+* 7 Segment Display uses 7 leds in order to represent a digit, making use of 10 pins to configure it.
 * Also using a 74HC595 as an offset register allows to ease the setting up of the display.
 
 <img title="7 Segment Display" src="https://www.perintang.com/wp-content/uploads/2019/03/09191-1.jpg" width=200/>
