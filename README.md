@@ -16,3 +16,4 @@ Projects for learning how to use Arduino and some components, with some cool pro
 11. [Tilt Switch (Mercury)](./Components/11.%20Tilt%20Switch%20%28Mercury%29)
 12. [Flame](./Components/12.%20Flame)
 13. [Temperature (LM35)](./Components/13.%20Temperature%20%28LM35%29)
+14. [IR Receiver](./Components/14.%20IR%20Receiver)
