@@ -18,3 +18,4 @@ Projects for learning how to use Arduino and some components, with some cool pro
 13. [Temperature (LM35)](./Components/13.%20Temperature%20%28LM35%29)
 14. [IR Receiver](./Components/14.%20IR%20Receiver)
 15. [7 Segment Display](./Components/15.%207%20Segment%20Display)
+16. [7 Segment 4 Digits Display](./Components/16.%207%20Segment%204%20Digits%20Display)
