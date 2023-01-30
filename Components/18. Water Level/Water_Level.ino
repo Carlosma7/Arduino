@@ -11,11 +11,11 @@
 int water = 0;
 
 void setup() {
-	// Set power pin as output to indicate when to turn on/off
-	pinMode(PIN_POWER, OUTPUT);
-	digitalWrite(PIN_POWER, LOW);
-	
-	Serial.begin(9600);
+  // Set power pin as output to indicate when to turn on/off
+  pinMode(PIN_POWER, OUTPUT);
+  digitalWrite(PIN_POWER, LOW);
+
+  Serial.begin(9600);
 }
 
 // Reads water level avoiding corrosion
