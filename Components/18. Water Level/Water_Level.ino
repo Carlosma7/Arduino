@@ -32,10 +32,10 @@ int readWaterLevel() {
 
 void loop() {
   // Read water level
-	int level = readWaterLevel();
-	
-	Serial.print("Water level: ");
-	Serial.println(level);
-	
-	delay(1000);
+  int level = readWaterLevel();
+  
+  Serial.print("Water level: ");
+  Serial.println(level);
+
+  delay(1000);
 }
