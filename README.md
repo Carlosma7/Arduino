@@ -20,3 +20,4 @@ Projects for learning how to use Arduino and some components, with some cool pro
 15. [7 Segment Display](./Components/15.%207%20Segment%20Display)
 16. [7 Segment 4 Digits Display](./Components/16.%207%20Segment%204%20Digits%20Display)
 17. [Potentiometer](./Components/17.%20Potentiometer)
+18. [Water Level](./Components/18.%20Water%20Level)
