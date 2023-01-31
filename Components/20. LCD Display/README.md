@@ -5,7 +5,7 @@
 
 * A liquid crystal display or LCD (liquid-crystal display) is a thin, flat screen consisting of a number of color or monochrome pixels placed in front of a light source or reflector. It is often used in battery-powered electronic devices because it uses very small amounts of electrical power.
 
-<img title="LCD Display" src="https://cdn.shopify.com/s/files/1/1509/1638/products/16x2_LCD_blaues_Display_1500x.jpg" width=200/>
+<img title="LCD Display" src="http://cdn.shopify.com/s/files/1/0300/6424/6919/products/16x2LCDDisplay_GreenBacklight_1024x1024_1_grande.jpg?v=1646904235" width=200/>
 
 ## Diagram
 
@@ -29,4 +29,5 @@ Here are the following examples with a LCD Display. First one just prints a mess
 * **lcd.print(MESSAGE);** prints a message on the LCD display.
 * **lcd.setCursor(COL, ROW);** sets the cursor to write from that position.
 * **lcd.scrollDisplayLeft();** indicates the LCD display to scroll a position to the left.
+
 You can find the codes [here](./src).
