@@ -23,3 +23,4 @@ Projects for learning how to use Arduino and some components, with some cool pro
 18. [Water Level](./Components/18.%20Water%20Level)
 19. [Relay 5V](./Components/19.%20Relay%205V)
 20. [LCD Display](./Components/20.%20LCD%20Display)
+21. [Sound](./Components/21.%20Sound)
