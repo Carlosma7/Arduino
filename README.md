@@ -26,3 +26,4 @@ Projects for learning how to use Arduino and some components, with some cool pro
 21. [Sound](./Components/21.%20Sound)
 22. [Rotary Encoder](./Components/22.%20Rotary%20Encoder)
 23. [Laser Emit](./Components/23.%20Laser%20Emit)
+24. [Shock](./Components/24.%20Shock)
