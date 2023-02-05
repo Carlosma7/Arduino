@@ -6,7 +6,7 @@
 * The Knock Sensor (KY-031) module is a vibration sensor that sends a signal when a knock/tap is detected.
 * This module consists of a spring-based sensor, a 10 kΩ resistor and 3 male header pins. The spring emits a high signal when a vibration is detected.
 
-<img title="Knock" src="https://ecuarobot.com/wp-content/uploads/2019/09/HTB1MeWJSXXXXXcIaXXX760XFXXXD3.png" width=200/>
+<img title="Knock" src="https://arduinomodules.info/wp-content/uploads/KY-031_knock_sensor_module-240x240.jpg" width=200/>
 
 ## Diagram
 
