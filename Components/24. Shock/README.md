@@ -6,7 +6,7 @@
 * Shock sensor enables shock and vibration detection.
 * The vibration detector module KY-002 (Shock) consists of a spring and a central conductive pole with a 10K resistor connected to the positive power supply. The spring reacts to shocks and vibrations by moving away from its center and closing the circuit to ground. Therefore, the output is inverse: a HIGH level means that there is no detection, and a LOW level means that there is shock or vibration.
 
-<img title="Shock" src="https://ecuarobot.com/wp-content/uploads/2019/09/4d.jpg" width=200/>
+<img title="Shock" src="https://4.bp.blogspot.com/-CggS8k2Or4w/V8pF4nw3OwI/AAAAAAAAAuI/Bt-i-UvrzqgVks9p1Dbo8NcQ2irYoWu3wCLcB/s1600/KY-002_Vibration%2BSwitch%2BModule%2BKeyes%2BBlack%2Bacostado%2Bfrontal.jpg" width=200/>
 
 ## Diagram
 
