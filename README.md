@@ -28,3 +28,4 @@ Projects for learning how to use Arduino and some components, with some cool pro
 23. [Laser Emit](./Components/23.%20Laser%20Emit)
 24. [Shock](./Components/24.%20Shock)
 25. [Knock](./Components/25.%20Knock)
+26. [Temperature and Humidity](./Components/26.%20Temperature%20and%20Humidity)
