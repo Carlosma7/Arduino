@@ -17,6 +17,7 @@ This section contains all the different components or modules that detects some 
 
 **Light**
 
+* [Light Blocking](./Light%20Blocking)
 * [Photoresistor](./Photoresistor)
 
 **Sound**
