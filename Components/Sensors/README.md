@@ -11,6 +11,10 @@ This section contains all the different components or modules that detects some 
 
 * [Flame](./Flame)
 
+**Heartbeat**
+
+* [Heartbeat](./Heartbeat)
+
 **Infrared**
 
 * [IR Receiver](./IR%20Receiver)
