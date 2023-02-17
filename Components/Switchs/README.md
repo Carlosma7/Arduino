@@ -4,6 +4,7 @@ This section contains all the different components that acts like a switch (butt
 ## Components
 
 * [Ball Switch](./Ball%20Switch)
+* [Digital Temperature](./Digital%20Temperature)
 * [Potentiometer](./Potentiometer)
 * [Relay 5V](./Relay%205V)
 * [Rotary Encoder](./Rotary%20Encoder)
