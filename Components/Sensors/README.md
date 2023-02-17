@@ -11,6 +11,10 @@ This section contains all the different components or modules that detects some 
 
 * [Flame](./Flame)
 
+**Gas**
+
+* [Gas and Smoke](./Gas%20and%20Smoke)
+
 **Heartbeat**
 
 * [Heartbeat](./Heartbeat)
