@@ -30,6 +30,7 @@ This section contains all the different components or modules that detects some 
 
 **Temperature**
 
+* [Analog Temperature](./Analog%20Temperature)
 * [Temperature (LM35)](./Temperature%20%28LM35%29)
 * [Temperature and Humidity](./Temperature%20and%20Humidity)
 
