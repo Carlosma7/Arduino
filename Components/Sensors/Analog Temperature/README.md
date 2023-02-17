@@ -6,7 +6,7 @@
 * The KY-013 Analog Temperature Sensor module can measure ambient temperature based on the resistance of the thermistor on the board.
 * This module consist of a NTC thermistor, a 10 kΩ resistor, and 3 male header pins. The thermistor resistance varies according to its surrounding temperature. The value of resistance can be used to calculate the actual temperature.
 
-<img title="Heartbeat" src="https://arduinomodules.info/wp-content/uploads/ky-013_analog_temperature_sensor_module-240x240.jpg" width=200/>
+<img title="Analog Temperature" src="https://arduinomodules.info/wp-content/uploads/ky-013_analog_temperature_sensor_module-240x240.jpg" width=200/>
 
 ## Diagram
 
