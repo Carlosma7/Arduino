@@ -16,7 +16,7 @@ Here´s the following example of a 7 Segment 4 Digits TM1637 display.
 
 ## Example
 
-Here´s the following example with a 7 Segment 4 Digits TM1637 display. It
+Here´s the following example with a 7 Segment 4 Digits TM1637 display. It displays several numbers, a word, an hour, a temperature and turns on and off.
 
 #### Demo
 <p align="center"><img src="./img/7_Segment_4_Digits_TM1637_Display_demo.gif"/></p>
