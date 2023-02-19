@@ -1,3 +1,9 @@
+/*
+	7 Segment 4 Digits TM1637 Display
+
+	It displays several numbers, a word, an hour, a temperature and turns on and off.
+*/
+
 #include <TM1637Display.h>
 
 #define CLK 3
