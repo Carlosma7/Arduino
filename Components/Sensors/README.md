@@ -42,6 +42,10 @@ This section contains all the different components or modules that detects some 
 * [Temperature (LM35)](./Temperature%20%28LM35%29)
 * [Temperature and Humidity](./Temperature%20and%20Humidity)
 
+**Touch**
+
+* [Touch (Metallic)](./Touch%20%28Metallic%29)
+
 **Tracking**
 
 * [Tracking](./Tracking)
