@@ -26,4 +26,4 @@ Here´s the following example with a Color sensor. It just shows on the serial m
 
 #### Code
 
-You can find the code for calibration [here](./Calibration) and the code for color detection [here](./Color.ino).
+You can find the code for calibration [here](./Calibration.ino) and the code for color detection [here](./Color.ino).
