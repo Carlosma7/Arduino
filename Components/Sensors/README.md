@@ -3,6 +3,10 @@ This section contains all the different components or modules that detects some 
 
 ## Components
 
+**Color**
+
+* [Color](./Color)
+
 **Distance**
 
 * [Ultrasonic SR04](./Ultrasonic%20SR04)
