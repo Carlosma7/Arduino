@@ -32,6 +32,10 @@ This section contains all the different components or modules that detects some 
 * [Light Blocking](./Light%20Blocking)
 * [Photoresistor](./Photoresistor)
 
+**Magnetic Field**
+
+* [Analog Hall](./Analog%20Hall)
+
 **Obstacle**
 
 * [Avoid](./Avoid)
