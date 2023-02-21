@@ -7,13 +7,12 @@
 
 #define REED 8
 
-void setup() {
-  //configurar pin como entrada con resistencia pull-up interna
+void setup(){
   pinMode(REED, INPUT_PULLUP);
   pinMode(LED_BUILTIN, OUTPUT);
 }
 
-void loop() {
+void loop(){
   int value = digitalRead(REED);
 
   if (value == LOW) {
