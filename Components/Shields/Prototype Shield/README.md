@@ -22,16 +22,16 @@
 
 Here you can see the shield with a mini breadboard on it:
 
-![Shield with breadboard](./img/Shield_with_bread.png)
+![Shield with breadboard](./img/Shield_with_bread.jpeg)
 
 Here you can see the shield without any breadboard, just the shield itself:
 
-![Shield without breadboard](./img/Shield_without_bread.png)
+![Shield without breadboard](./img/Shield_without_bread.jpeg)
 
 From front you can see the LEDs with their resistors and reset and new button availables:
 
-![Shield from front](./img/Shield_front.png)
+![Shield from front](./img/Shield_front.jpeg)
 
 From back you can see all the new rails:
 
-![Shield from back](./img/Shield_back.png)
+![Shield from back](./img/Shield_back.jpeg)
