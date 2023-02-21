@@ -3,6 +3,7 @@ This section contains all the different modules that acts like buttons and are u
 
 ## Components
 
+* [4x1 Buttons](./4x1%20Buttons)
 * [Analog Joystick](./Analog%20Joystick)
 * [Button](./Button)
 * [Membrane Switch Module](./Membrane%20Switch%20Module)
