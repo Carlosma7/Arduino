@@ -8,4 +8,5 @@ Projects for learning how to use Arduino and some components, with some cool pro
 * [Emitters](./Components/Emitters)
 * [Motors](./Components/Motors)
 * [Sensors](./Components/Sensors)
+* [Shields](./Components/Shields)
 * [Switchs](./Components/Switchs)
