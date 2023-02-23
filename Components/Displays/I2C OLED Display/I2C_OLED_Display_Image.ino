@@ -1,8 +1,8 @@
 /*
-
+	I2C OLED Display - Image
 
 	It uses a bitmap in C code to display an image.
-	
+
   https://docs.splitkb.com/hc/en-us/articles/360013811280-How-do-I-convert-an-image-for-use-on-an-OLED-display-
 */
 
@@ -13,8 +13,10 @@
 #define SCREEN_WIDTH 128
 #define SCREEN_HEIGHT 64
 
+// Declaration for a SSD1306 display connected to I2C (SDA, SCL pins)
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
+// C image
 const unsigned char image_data_Github [] PROGMEM = {
 	0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
 	0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 
@@ -82,16 +84,15 @@ const unsigned char image_data_Github [] PROGMEM = {
 	0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff, 0xff
 };
  
-void setup() {
-  Serial.begin(115200);
- 
-  if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) {
+void setup(){
+  Serial.begin(9600);
+
+  if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)){ // Address 0x3D for 128x64
     Serial.println(F("SSD1306 allocation failed"));
-    for(;;);
+    while(1);
   }
-  delay(2000); // Pause for 2 seconds
+  delay(2000);
  
-  // Clear the buffer.
   display.clearDisplay();
   
   // Draw bitmap on the screen
@@ -99,6 +100,6 @@ void setup() {
   display.display();
 }
  
-void loop() {
+void loop(){
   
 }
