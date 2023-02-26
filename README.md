@@ -11,3 +11,4 @@ Projects for learning how to use Arduino and some components, with some cool pro
 * [Sensors](./Components/Sensors)
 * [Shields](./Components/Shields)
 * [Switchs](./Components/Switchs)
+* [Time](./Components/Time)
