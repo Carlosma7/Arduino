@@ -4,6 +4,7 @@ Projects for learning how to use Arduino and some components, with some cool pro
 ## Components
 
 * [Buttons](./Components/Buttons)
+* [Data](./Components/Data)
 * [Displays](./Components/Displays)
 * [Emitters](./Components/Emitters)
 * [Motors](./Components/Motors)
