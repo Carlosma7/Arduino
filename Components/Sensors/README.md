@@ -36,6 +36,10 @@ This section contains all the different components or modules that detects some 
 
 * [Analog Hall](./Analog%20Hall)
 
+**Motion**
+
+* [PIR](./PIR)
+
 **Obstacle**
 
 * [Avoid](./Avoid)
