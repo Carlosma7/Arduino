@@ -11,4 +11,5 @@ This section contains all the different components that represents any informati
 * [LCD Display](./LCD%20Display)
 * [LED Traffic Light](./LED%20Traffic%20Light)
 * [Matrix](./Matrix)
+* [Mini Battery Display](./Mini%20Battery%20Display)
 * [TM1638](./TM1638)
