@@ -21,7 +21,7 @@
 
 ## Diagram
 
-![LED diagram](./img/Soft_Filament_LED_diagram.png)
+![LED diagram](./img/Soft_Filament_LED_diagram.jpeg)
 
 ## Example
 
