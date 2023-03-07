@@ -13,6 +13,7 @@ This section contains all the different components that acts like a switch (butt
 * [7 Color Flash LED](./7%20Color%20Flash%20LED)
 * [LED](./LED)
 * [RGB LED](./RGB%20LED)
+* [Soft Filament LED](./Soft%20Filament%20LED)
 
 **Sound**
 
