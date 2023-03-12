@@ -19,4 +19,4 @@ Here´s the following example of a EEPROM AT24C256.
 
 #### Code
 
-You can find the code from [here](./Infrarred_Temperature.ino).
+You can find the code from [here](./EEPROM_AT24C256.ino).
