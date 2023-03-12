@@ -21,7 +21,7 @@ Here´s the following example of a Infrarred Temperature sensor.
 Here´s the following example with a Infrarred Temperature sensor. It reads the temperature from ambient and from object and prints them.
 
 #### Demo
-<p align="center"><img src="./img/Infrarred_Temperature_diagram.gif"/></p>
+<p align="center"><img src="./img/Infrarred_Temperature_demo.gif"/></p>
 
 #### Code
 
