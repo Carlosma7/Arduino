@@ -7,6 +7,9 @@ This section contains all the different components or modules that detects some 
 
 * [Color](./Color)
 
+**Compound**
+* [BME680](./BME680)
+
 **Distance**
 
 * [Ultrasonic SR04](./Ultrasonic%20SR04)
