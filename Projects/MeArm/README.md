@@ -3,8 +3,8 @@
 ## Components 
 
 * **MeArm** skeleton: There are thousands of e-shops where you could buy one. I bought a cheap one on [AliExpress](https://aliexpi.com/ghY3), but if it´s affordable I would suggest a higher quality one.
-* 4 [Servos](../Components/Motors/Servo) to move the 4 degrees of freedom of the arm (included in previous pack).
-* 2 [Analog Joysticks](../Components/Buttons/Analog%20Joystick) control the movement of the 4 degrees of freedom of the arm (HU-M16 shield included in pack).
+* 4 [Servos](./../Components/Motors/Servo) to move the 4 degrees of freedom of the arm (included in previous pack).
+* 2 [Analog Joysticks](./../Components/Buttons/Analog%20Joystick) control the movement of the 4 degrees of freedom of the arm (HU-M16 shield included in pack).
 * **Arduino** (included in pack).
 
 ## Assembly
