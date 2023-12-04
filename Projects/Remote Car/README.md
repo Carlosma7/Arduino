@@ -19,7 +19,7 @@ Once all the skeleton has been assembled, we proceed with the wiring to control 
 
 Now we use this diagram to connect the wires to all components:
 
-![Diagram](./img/Remote_Carlos.png)
+![Diagram](./img/Remote_Car.png)
 
 ## Code
 
@@ -31,5 +31,5 @@ Here´s a GIF of the car moving and displaying some faces:
 
 <p align="center"><img src="./img/Remote_Car_GIF.gif"/></p>
 
-You have the whole video with sound (to check the buzzer ringing "Take On Me") [here](./Remote_Car_Video.mp4).
+You have the whole video with sound (to check the buzzer ringing "Take On Me") [here](./img/Remote_Car_Video.mp4).
 
